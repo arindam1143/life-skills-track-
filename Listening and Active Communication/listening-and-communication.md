@@ -1,4 +1,4 @@
-###Question
+### Question
 
 What are the steps/strategies to do Active Listening?
 
@@ -15,7 +15,7 @@ What are the steps/strategies to do Active Listening?
 
  6.Ask Clarifying Questions: If something is unclear, don't hesitate to ask for clarification. Use open-ended questions to encourage the speaker to expand on their thoughts. For example, "Can you provide more details about that?" or "What led you to that conclusion?"
 
-###Question
+### Question
  what are the key points of Reflective Listening? 
 ### answer
  Reflective listening is a communication strategy that involves mirroring body language, emotions, and verifying the message to ensure better understanding. 
@@ -26,30 +26,30 @@ Always take notes during meetings, discussions, or technical conversations to ca
 Share the notes with all stakeholders, such as clients, managers, or team members. Ask them to verify if the information is accurate.
 
 Ensure that everyone involved in the discussion agrees on the points discussed to avoid misunderstandings and misinterpretations.
-
+### Question
 What are the obstacles in your listening process?
 ### answer
 Obstacles in the listening process can include distractions, preconceived notions, personal biases, lack of focus, and the desire to respond rather than understand.
 
-###Question
+### Question
 
 What can you do to improve your listening?
 ### answer
  To improve my listening, you can practice active listening, minimize distractions, be patient, show empathy, and ask clarifying questions.
 
-###Question
+### Question
 
 When do you switch to Passive communication style in your day to day life?
 ### answer
 
  I might switch to a passive communication style in your day-to-day life when you want to avoid conflict, maintain harmony, or when you believe that assertiveness may not be necessary in a particular situation. Passive communication is often used when you prefer not to express your own needs or opinions and prioritize the needs and feelings of others.
 
-###Question
+### Question
 When do you switch into Aggressive communication styles in your day to day life?
 ### answer
  I might switch to an aggressive communication style in your day-to-day life when you feel the need to dominate a conversation or situation, assert your authority, protect your own interests, or when you want to express your needs and opinions forcefully without much consideration for others' feelings or viewpoints. However, it's important to note that aggressive communication can be counterproductive and may lead to conflicts and strained relationships if used excessively or inappropriately.
 
-###Question
+### Question
 When do you switch into Passive Aggressive communication styles in your day to day life?
 
 ### answer
