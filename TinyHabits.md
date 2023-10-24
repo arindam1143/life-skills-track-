@@ -1,4 +1,4 @@
-### Question 1
+ ### Answer 1
 Commit to reading just one page of the book each day. This is an extremely manageable task that can be accomplished in a minute or two. 
 Over time, you may find yourself reading more than just one page.
 ### Question 2: 
@@ -25,7 +25,7 @@ Why it is important to "Shine" or Celebrate after each successful completion of 
  This reinforces the behavior and makes it more likely to become a long-term habit. Celebrating, even in small ways, creates a sense of
   accomplishment and satisfaction, making the habit more attractive and easier to maintain.
   
-### Question 4
+### Answer 4
 If I can change my habits then I can change my life
 ### Question 5: 
 What is the book's perspective about Identity?
